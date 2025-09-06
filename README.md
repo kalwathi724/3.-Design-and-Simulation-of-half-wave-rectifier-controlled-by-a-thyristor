@@ -62,5 +62,12 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+
+<img width="1096" height="485" alt="image" src="https://github.com/user-attachments/assets/ce7006a5-8a00-4bf9-a9e4-8d405059a889" />
+
 ## Output
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/abf0c5d4-2c64-4199-bd74-ff1291a79267" />
+
 ## Result
+The half-wave controlled rectifier using a single thyristor was successfully simulated in MATLAB Simulink. The simulation results confirmed the theoretical analysis: the output DC voltage decreases with an increase in firing angle, demonstrating effective control of output power using phase control.
